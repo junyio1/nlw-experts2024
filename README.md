@@ -10,3 +10,4 @@ Meu primeiro evento
 
 ## Dúvidas para o Futuro:
 Alinhamento do circulo de seleção, não está centralizado.
+→ Meu mestre Junior, descobriu o problema, estava relacionado ao zoom da página, quando foi colocado em 100% ele ficou centralizado.
